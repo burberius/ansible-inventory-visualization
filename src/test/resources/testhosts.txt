@@ -1,0 +1,9 @@
+[test]
+test1.troja.net
+test2.troja.net
+
+[demo]
+demo[0:9].troja.net
+
+[alpha]
+alpha[a:z].troja.net
